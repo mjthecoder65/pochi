@@ -1,2 +1,2 @@
 # pochi
-Python Library for HDWallets Apps
+Python Library for Hirarchical Deterministic Wallets(HDWallets)
